@@ -1,14 +1,4 @@
 # CS1030-example-site
-<!DOCTYPE html>
-<html> 
-<head> 
-<style>
-    h1   {color : blue ; }
-    body {background-color : lightgrey ; }
-</style>
-</head>   
-<titles>My test website!</title>
-  <body>
-  <h1>  The Honey Badger!</h1> 
+
 
 ![honey badger](https://github.com/jtchlarson/CS1030-example-site/blob/6054a9b232952236fb6cb183a74ab71117e29816/Honey-Badger-DSCN-1414-Featured-Image.jpg)
